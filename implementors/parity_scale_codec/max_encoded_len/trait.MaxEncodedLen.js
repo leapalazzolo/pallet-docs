@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"pallet_dex":[["impl&lt;AssetIdOf, AssetBalanceOf&gt; MaxEncodedLen for <a class=\"struct\" href=\"pallet_dex/pallet/struct.LiquidityPool.html\" title=\"struct pallet_dex::pallet::LiquidityPool\">LiquidityPool</a>&lt;AssetIdOf, AssetBalanceOf&gt;<span class=\"where fmt-newline\">where\n    AssetIdOf: MaxEncodedLen,\n    AssetBalanceOf: MaxEncodedLen,</span>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
